@@ -48,7 +48,8 @@ Strict adherence to GS1 standards.
 
 ---
 
-<img width="1002" height="554" alt="image" src="https://github.com/user-attachments/assets/e3bc52bb-4cfc-47e4-8688-b3de4743f448" />
+<img width="1866" height="1000" alt="image" src="https://github.com/user-attachments/assets/f9677371-b9c9-4ce7-99db-b648a81eaea9" />
+
 
 ---
 

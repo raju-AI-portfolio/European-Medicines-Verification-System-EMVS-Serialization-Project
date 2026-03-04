@@ -173,6 +173,10 @@ Execution is divided into four structured workstreams:
 
 ---
 
+<img width="1841" height="1056" alt="image" src="https://github.com/user-attachments/assets/42efdce6-9508-4346-8f91-5a671dfa8a80" />
+
+---
+
 ## 🛠️ Phase 2: Technical Build & Configuration (Months 4–8)
 
 ### L1/L2 Retrofitting

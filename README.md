@@ -111,6 +111,11 @@ L4 acts as the primary gateway to the European Hub.
 
 ## 🌍 L5: Network Level – European Hub
 
+---
+<img width="1841" height="1056" alt="image" src="https://github.com/user-attachments/assets/f523e37b-4e17-403a-96ee-83cc093d4ce5" />
+
+---
+
 ### Central Authority
 European Medicines Verification Organisation (EMVO)
 

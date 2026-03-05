@@ -78,10 +78,10 @@ The solution implements a multi-layer integration model (L1–L5) to ensure full
 
 ## 🏢 L3: Site Level Serialization
 
-### Example Systems
-- Systech
-- TraceLink
-- Antares Vision
+### Systems
+- rfxcl and SAP ATTP (at Dr. Reddys)
+- TraceLink Arvarto etc ( AT CMO)
+
 
 ### Responsibilities
 - Local serial number pool management
